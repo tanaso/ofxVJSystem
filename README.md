@@ -7,7 +7,7 @@ Don't forget, before announcing your addon to the world, you should replace `REA
 
 Introduction
 ------------
-Describe what your addon is about
+In progress...
 
 License
 -------

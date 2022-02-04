@@ -22,6 +22,8 @@ docs/tagfile.xml
 *.pyc
 .svn/
 
+tests/
+scripts/
 #########################
 # IDE
 #########################
