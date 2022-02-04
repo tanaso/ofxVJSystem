@@ -21,6 +21,7 @@ docs/tagfile.xml
 *.app/
 *.pyc
 .svn/
+*.yml
 
 tests/
 scripts/
