@@ -15,11 +15,11 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxAddonTemplate
-	ADDON_DESCRIPTION = ofxAddonTemplate is amazing!
-	ADDON_AUTHOR = @yournamehere
-	ADDON_TAGS = "addon" "template"
-	ADDON_URL = http://github.com/yournamehere/ofxAddonTemplate
+	ADDON_NAME = ofxVJSystem
+	ADDON_DESCRIPTION = VJ system using openFrameworks
+	ADDON_AUTHOR = @tanaso
+	ADDON_TAGS = "addon"
+	ADDON_URL = http://github.com/tanaso/ofxVJSystem
 
 common:
 	# dependencies with other addons, a list of them separated by spaces 
