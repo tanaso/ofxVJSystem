@@ -1,4 +1,4 @@
-MyAddon (rename to your addon's name)
+ofxVJSystem
 =====================================
 
 *This is a template of a README file for your addon. Fill in the relevant sections, and it should already give users a pretty good overview over your awesome addon!*
@@ -33,7 +33,7 @@ Version history
 ------------
 It make sense to include a version history here (newest releases first), describing new features and changes to the addon. Use [git tags](http://learn.github.com/p/tagging.html) to mark release points in your repo, too!
 
-### Version 0.1 (Date):
+### Version 0.1 ():
 Describe relevant changes etc.
 
 
